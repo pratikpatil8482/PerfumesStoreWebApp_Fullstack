@@ -1,0 +1,43 @@
+        a { color:black; }
+
+        .buton
+        {color: black;
+          background-color:skyblue; }
+nav a {
+            display: inline-block;
+            padding: 10px;
+            color: darkreds;
+            text-decoration: none;
+            font-weight: bold;
+        }
+nav a:hover {
+            background-color:red;
+            color: #fff;
+        }
+        nav {
+            /*position: fixed;
+            top: 0px;
+            left: 0px;*/
+            background-color: #587D87;
+            padding: 50%px;
+            text-align: center;}
+
+ footer {
+    background-image: linear-gradient(to right,whitesmoke, lightpink,whitesmoke);
+            padding: 10px;
+            text-align: center;
+        }
+section {
+            margin: 20px;
+            padding: 10px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+        }
+   .tab{width: 50%;
+        align-content: center;}                
+
+
+ h3  {text-decoration: none;
+        color:#4E92AD;}
+ p   {text-decoration: none;
+            color: darkred;}
